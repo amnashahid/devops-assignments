@@ -7,7 +7,7 @@ A.	Agile is the methodology of breaking the development process into small deliv
 	2. testing
 	3. delivery
 	
-	The if there needs to be more iterations, then after delivering the software, development of 	next phase starts. This iterations is continues until the software is completed.
+	The if there needs to be more iterations, then after delivering the software, development of 		next phase starts. This iterations is continues until the software is completed.
 
 	Whereas in DevOps, continues integration takes place. once the phase is completed and 
 	deployed to production, DevOps makes sure that the production envirnoment keeps working 
@@ -17,6 +17,11 @@ A.	Agile is the methodology of breaking the development process into small deliv
 Q2.	Define CI, Continuous Delivery & Continuous Deployment
 A. 	CI: Continus Integration is automatic process of building and testing the project.
 	Continuous Delivery: Is the automatic process which keeps software ready for business
-	Continuous Deployment:  Every change hat have passed the CI and CD can then be release to customers.
+	Continuous Deployment:  Every change hat have passed the CI and CD can then be release 
+	customers.
 
+Q3. 	What are the benefits of Cloud Computing.
+A.	1. Pay only until resourses are being used
+	2. scalable resourses (can scale up and scale down as per requirement)
+	3. no need to buy dedicated resourses
 	

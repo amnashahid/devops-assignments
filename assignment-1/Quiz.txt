@@ -1,0 +1,17 @@
+Q1. 	Agile vs DevOps
+
+A.	Agile is the methodology of breaking the development process into small deliverables. Each 	
+	deliverable has 3 phases:
+
+	1. development
+	2. testing
+	3. delivery
+	
+	The if there needs to be more iterations, then after delivering the software, development of 	next phase starts. This iterations is continues until the software is completed.
+
+	Whereas in DevOps, continues integration takes place. once the phase is completed and 
+	deployed to production, DevOps makes sure that the production envirnoment keeps working 
+	there is as few downtime as possible. This phase of maintaining the production is not 
+	supported by Agile.
+
+	

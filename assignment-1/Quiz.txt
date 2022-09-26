@@ -13,29 +13,34 @@ A.	Agile is the methodology of breaking the development process into small deliv
 	deployed to production, DevOps makes sure that the production envirnoment keeps working 
 	there is as few downtime as possible. This phase of maintaining the production is not 
 	supported by Agile.
-
+****************************************************************************************
 Q2.	Define CI, Continuous Delivery & Continuous Deployment
 A. 	CI: Continus Integration is automatic process of building and testing the project.
 	Continuous Delivery: Is the automatic process which keeps software ready for business
 	Continuous Deployment:  Every change hat have passed the CI and CD can then be release 
 	customers.
-
+****************************************************************************************
 Q3. 	What are the benefits of Cloud Computing.
 A.	1. Pay only until resourses are being used
 	2. scalable resourses (can scale up and scale down as per requirement)
 	3. no need to buy dedicated resourses
-
+****************************************************************************************
 Q4. 	Difference b/w Git & Github
 A		GIT					GITHUB
 	1. It is a set of commands		| this is a server
 	2. Git resides are local machine	| It is cloud based hosting service
 	3. It controls the versioning of code	| this saves all the repositories.
-
+****************************************************************************************
 Q5.  	Stages of Git
 A.   	1. Working directory
 	2. Stage
 	3. commit
 	4. what about push(need to ask in the class)
+****************************************************************************************
+Q6. 	3 methods of git reset?
+A.	1.git reset (soft): uncommit change and move changes from commit to stage
+	2.git reset (mixed): uncommit change and move changes to working dirctory
+	3.git reset (hard):uncommit change and undo it.
 
 
 	

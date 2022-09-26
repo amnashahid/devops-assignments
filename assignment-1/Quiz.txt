@@ -31,5 +31,11 @@ A		GIT					GITHUB
 	2. Git resides are local machine	| It is cloud based hosting service
 	3. It controls the versioning of code	| this saves all the repositories.
 
+Q5.  	Stages of Git
+A.   	1. Working directory
+	2. Stage
+	3. commit
+	4. what about push(need to ask in the class)
+
 
 	

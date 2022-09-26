@@ -24,4 +24,12 @@ Q3. 	What are the benefits of Cloud Computing.
 A.	1. Pay only until resourses are being used
 	2. scalable resourses (can scale up and scale down as per requirement)
 	3. no need to buy dedicated resourses
+
+Q4. 	Difference b/w Git & Github
+A		GIT					GITHUB
+	1. It is a set of commands		| this is a server
+	2. Git resides are local machine	| It is cloud based hosting service
+	3. It controls the versioning of code	| this saves all the repositories.
+
+
 	
